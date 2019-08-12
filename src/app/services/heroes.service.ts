@@ -55,7 +55,15 @@ export class HeroesService {
           img: "assets/img/wolverine.png",
           aparicion: "1974-11-01",
           casa: "Marvel"
+        },
+        {
+          nombre: "Perro Guarumo",
+          bio: "El perro guarumo es un comediante mexicano.",
+          img: "assets/img/perro.jpeg",
+          aparicion: "1965-05-01",
+          casa: "DC"
         }
+
       ];
     
     constructor(){
